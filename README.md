@@ -18,13 +18,13 @@ Files type:
 
 #### WebHelp (many .html files, suitable for none-windows users):
 Files type:
- - `yii2-x.x.x-webhelp-YYYY-MM-DD.zip` (Download, Extract and Open the `index.html`)
+ - `yii2-x.x.x-webhelp-YYYY-MM-DD.zip` (Download, Extract and Open the `index.html` file)
 
 ![WebHelp](https://image.ibb.co/eA3NPa/manual_webhelp.png)
 
 #### Microsoft Word 97 - 2003 Document (.doc file):
 Files type:
- - `yii2-x.x.x-msword-YYYY-MM-DD.zip` (Download, Extract and Open the `index.html`)
+ - `yii2-x.x.x-msword-YYYY-MM-DD.zip` (Download, Extract and Open the `.doc` file)
 
 ![MSWord](https://image.ibb.co/nBrbja/manual_word.png)
 

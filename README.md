@@ -42,10 +42,10 @@ CHM Compilation:
  - [Microsoft Html Help Workshop](https://msdn.microsoft.com/en-us/library/windows/desktop/ms670169(v=vs.85).aspx)
 
 WebHelp and MSWord formats: 
- - [HelpSmith 7](https://www.helpsmith.com/) (Trial)
+ - [HelpSmith 7](https://www.helpsmith.com/)
 
 Zip format: 
- - [WinRAR 5.50 beta](http://www.rarlab.com/) (Trial that never ends ;))
+ - [WinRAR 5.50 beta](http://www.rarlab.com/)
 
 Include myself too
 > For creating the custom templates and scripts to boost the automation, fixing the related bugs and long compilations process.

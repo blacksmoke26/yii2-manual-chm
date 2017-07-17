@@ -50,4 +50,4 @@ Zip format:
  - [WinRAR 5.50 beta](http://www.rarlab.com/)
 
 Include myself too
-> For creating the custom templates and scripts to boost the automation, fixing the related bugs and long compilations process.
+> For creating the custom templates and scripts to boost the automation, fixing the related bugs and long compilation process.

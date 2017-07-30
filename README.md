@@ -5,6 +5,9 @@ A dedicated repository to publish the Yii2 latest Manuals (Guide/API/Docs) in CH
 ##### Click below, choose the latest release and download:
 https://github.com/blacksmoke26/Yii2-Manual-CHM/releases
 
+## How can you help?
+If you found a bug, typo or missing images even invalid/bad links, Please [Create](https://github.com/blacksmoke26/Yii2-Manual-CHM/issues) a Issue. Your suggestions will greatly improve these manuals.
+
 ## Formats
 
 #### Microsoft Compiled HTML Help (.chm file, suitable for windows users):
@@ -21,7 +24,6 @@ https://github.com/blacksmoke26/Yii2-Manual-CHM/releases
 ![WebHelp](https://image.ibb.co/g0cH4a/image.png)
 
 #### WebHelp (many .html files, suitable for none-windows users):
-Files type:
  - `yii2-x.x.x-webhelp-YYYY-MM-DD.zip` (Download, Extract and Open the `index.html` file)
 
 ![WebHelp](https://image.ibb.co/eA3NPa/manual_webhelp.png)

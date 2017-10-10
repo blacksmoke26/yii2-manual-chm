@@ -1,4 +1,4 @@
-# Yii2-Manual-CHM
+# Yii 2 Official Manuals
 
 A dedicated repository to publish the Yii2 latest Manuals (Guide/API/Docs) in CHM/WebHelp and additional formats.
 

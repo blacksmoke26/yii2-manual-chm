@@ -1,9 +1,11 @@
-# Yii 2 Official Manuals
+# Yii2 Framework - (un)official manuals in various formats.
 
 A dedicated repository to publish the Yii2 latest Manuals (Guide/API/Docs) in CHM/WebHelp and additional formats.
 
+[![GitHub release](https://img.shields.io/github/v/release/blacksmoke26/yii2-manual-chm)](https://github.com/blacksmoke26/yii2-manual-chm/releases/latest)
+
 ##### Click below, choose the latest release and download:
-https://github.com/blacksmoke26/Yii2-Manual-CHM/releases
+https://github.com/blacksmoke26/yii2-manual-chm/releases/latest
 
 ## How can you help?
 If you found a bug, typo or missing images even invalid/bad links, Please [Create](https://github.com/blacksmoke26/Yii2-Manual-CHM/issues) an Issue. Your suggestions will greatly improve these manuals.
